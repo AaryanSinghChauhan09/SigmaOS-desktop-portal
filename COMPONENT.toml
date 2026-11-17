@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-desktop-portal"
-description = "SigmaOS subsystem component for desktop-portal"
+description = "XDG desktop portal backend (screenshot, files)"
 version = "0.1.0"
 tier = 4
 
