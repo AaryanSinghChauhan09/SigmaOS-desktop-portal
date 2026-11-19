@@ -7,3 +7,8 @@ tier = 4
 [capabilities]
 contract_version = "1.0.0"
 principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources"]
+
+[maturity]
+status = "Implemented"
+test_evidence = "5 unit tests passing with cargo test --offline"
+next_milestone = "Wayland grim/slurp compositor screen capture binding"
